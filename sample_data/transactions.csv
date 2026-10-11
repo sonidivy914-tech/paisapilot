@@ -1,0 +1,27 @@
+Date,Description,Amount,Type
+2026-09-01,Salary Credit,30000,credit
+2026-09-01,DMart Grocery Store,850,debit
+2026-09-02,Uber Ride,220,debit
+2026-09-03,Netflix,199,debit
+2026-09-04,Zomato Restaurant,650,debit
+2026-09-05,Amazon Shopping,1499,debit
+2026-09-07,Spotify,119,debit
+2026-09-09,Swiggy Order,540,debit
+2026-09-11,Ola Cab,180,debit
+2026-09-14,Jio Recharge,299,debit
+2026-09-16,Flipkart,799,debit
+2026-09-18,Zomato Restaurant,720,debit
+2026-09-20,Grocery Store,910,debit
+2026-09-22,Myntra,950,debit
+2026-09-25,Pharmacy,320,debit
+2026-09-27,Amazon Shopping,5500,debit
+2026-10-01,Salary Credit,30000,credit
+2026-10-02,Netflix,199,debit
+2026-10-03,DMart Grocery Store,880,debit
+2026-10-04,Spotify,119,debit
+2026-10-05,Zomato Restaurant,690,debit
+2026-10-06,Uber Ride,240,debit
+2026-10-08,Jio Recharge,299,debit
+2026-10-09,Swiggy Order,580,debit
+2026-10-10,Blinkit Instant Groceries,620,debit
+
